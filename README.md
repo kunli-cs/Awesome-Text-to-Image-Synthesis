@@ -8,14 +8,14 @@ If you have any problems, suggestions or improvements, please submit the issue o
 * [Tools](#tools)
 
 ## Datasets
-- CUB bird dataset
-- COCO dataset
+- CUB bird dataset [[Link](http://www.vision.caltech.edu/visipedia/CUB-200-2011.html)]
+- COCO dataset [[Link](http://cocodataset.org)]
 
 ## Papers
 
 ### 2019
 - <a name="DM-GAN"></a> **[DM-GAN]** DM-GAN: Dynamic Memory Generative Adversarial Networks for Text-to-Image Synthesis (**CVPR2019**) [[paper](https://arxiv.org/abs/1904.01310)]
-- <a name="MS-GAN"></a> **[DM-GAN]** Mode Seeking Generative Adversarial Networks for Diverse Image Synthesis
+- <a name="MS-GAN"></a> **[MSGAN]** Mode Seeking Generative Adversarial Networks for Diverse Image Synthesis
  (**CVPR2019**) [[paper](https://arxiv.org/abs/1903.05628)] [[code](https://github.com/HelenMao/MSGAN)]
 - <a name="MirrorGAN"></a> **[MirrorGAN]**  MirrorGAN: Learning Text-to-image Generation by Redescription (**CVPR2019**) [[paper](https://arxiv.org/abs/1903.05854)] [[code](https://github.com/qiaott/MirrorGAN)]
 
@@ -34,6 +34,8 @@ If you have any problems, suggestions or improvements, please submit the issue o
 
 - <a name="GAWWN"></a> **[GAWWN]** Learning What and Where to Draw (**NIPS2016**) [[paper](https://arxiv.org/abs/1610.02454)] [[code](https://github.com/reedscot/nips2016)]
 
-### Tools
+## Tools
 
-- FID([code](https://github.com/bioinf-jku/TTUR))
+- FID([[paper](https://arxiv.org/abs/1706.08500)] [[code](https://github.com/bioinf-jku/TTUR)] )
+- Inception-Score([[paper](https://arxiv.org/abs/1606.03498)] [[code](https://github.com/sbarratt/inception-score-pytorch)])
+<!-- - LIPS([[paper](https://arxiv.org/abs/1801.03924)] [code]()) -->
