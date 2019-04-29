@@ -39,7 +39,7 @@ If you have any problems, suggestions or improvements, please submit the issue o
 ## Tools
 
 - FID([[paper](https://arxiv.org/abs/1706.08500)] [[code](https://github.com/bioinf-jku/TTUR)] )
-- Inception-Score([[paper](https://arxiv.org/abs/1606.03498)] [[code](https://github.com/sbarratt/inception-score-pytorch)])
+- Inception-Score([[paper](https://arxiv.org/abs/1606.03498)] [[code](https://github.com/hanzhanggit/StackGAN-inception-model)])
 <!-- - LIPS([[paper](https://arxiv.org/abs/1801.03924)] [code]()) -->
 
 ## Reference
