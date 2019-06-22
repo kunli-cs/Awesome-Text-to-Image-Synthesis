@@ -19,7 +19,7 @@ If you have any problems, suggestions or improvements, please submit the issue o
 - <a name="MS-GAN"></a> **[MSGAN]** Mode Seeking Generative Adversarial Networks for Diverse Image Synthesis
  (**CVPR2019**) [[paper](https://arxiv.org/abs/1903.05628)] [[code](https://github.com/HelenMao/MSGAN)]
 - <a name="MirrorGAN"></a> **[MirrorGAN]**  MirrorGAN: Learning Text-to-image Generation by Redescription (**CVPR2019**) [[paper](https://arxiv.org/abs/1903.05854)] [[code](https://github.com/qiaott/MirrorGAN)]
-- <a name=""></a>**[Obj-GAN]** Object-driven Text-to-Image Synthesis via Adversarial Training **(CVPR2019)** [[paper](https://arxiv.org/abs/1902.10740)]
+- <a name=""></a>**[Obj-GAN]** Object-driven Text-to-Image Synthesis via Adversarial Training **(CVPR2019)** [[paper](https://arxiv.org/abs/1902.10740)] [[code](https://github.com/jamesli1618/Obj-GAN)]
 - <a name="SD-GAN"></a> **[SD-GAN]** Semantics Disentangling for Text-to-Image Generation **(CVPR2019)** [[paper](https://arxiv.org/abs/1904.01480)]
 
 ### 2018
@@ -27,6 +27,7 @@ If you have any problems, suggestions or improvements, please submit the issue o
 - <a name="StackGAN++"></a> **[StackGAN++]** StackGAN++: Realistic Image Synthesis with Stacked Generative Adversarial Networks (**T-PAMI**) [[paper](https://github.com/hanzhanggit/StackGAN-v2)] [[code](https://github.com/hanzhanggit/StackGAN-v2)]
 - <a name="AttnGAN"></a> **[AttnGAN]** AttnGAN: Fine-Grained Text to Image Generation with Attentional Generative Adversarial Networks (**CVPR2018**) [[paper](https://arxiv.org/abs/1711.10485)] [[code](https://github.com/taoxugit/AttnGAN)]
 - <a name="DA-GAN"></a> **[DA-GAN]** DA-GAN: Instance-level Image Translation by Deep Attention Generative Adversarial Networks (with Supplementary Materials) (**CVPR2018**) [[[paper](https://arxiv.org/abs/1802.06454)] [[code]()]
+- <a name="HD-GAN"></a> **[HD-GAN]** Photographic Text-to-Image Synthesis with a Hierarchically-nested Adversarial Network (CVPR2018) [[paper](https://arxiv.org/pdf/1802.09178.pdf)] [[code](https://github.com/ypxie/HDGan)]
 
 ### 2017
 - <a name="StackGAN"></a> **[StackGAN]** StackGAN: Text to Photo-realistic Image Synthesis with Stacked Generative Adversarial Networks (**ICCV2017**) [[paper](https://arxiv.org/abs/1710.10916)] [[code](https://github.com/hanzhanggit/StackGAN)]
