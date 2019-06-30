@@ -20,7 +20,7 @@ If you have any problems, suggestions or improvements, please submit the issue o
  (**CVPR2019**) [[paper](https://arxiv.org/abs/1903.05628)] [[code](https://github.com/HelenMao/MSGAN)]
 - <a name="MirrorGAN"></a> **[MirrorGAN]**  MirrorGAN: Learning Text-to-image Generation by Redescription (**CVPR2019**) [[paper](https://arxiv.org/abs/1903.05854)] [[code](https://github.com/qiaott/MirrorGAN)]
 - <a name=""></a>**[Obj-GAN]** Object-driven Text-to-Image Synthesis via Adversarial Training **(CVPR2019)** [[paper](https://arxiv.org/abs/1902.10740)] [[code](https://github.com/jamesli1618/Obj-GAN)]
-- <a name="SD-GAN"></a> **[SD-GAN]** Semantics Disentangling for Text-to-Image Generation **(CVPR2019)** [[paper](https://arxiv.org/abs/1904.01480)]
+- <a name="SD-GAN"></a> **[SD-GAN]** Semantics Disentangling for Text-to-Image Generation **(CVPR2019)** [[paper](https://arxiv.org/abs/1904.01480)] [[code](https://github.com/gjyin91/SDGAN)]
 
 ### 2018
 
