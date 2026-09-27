@@ -40,6 +40,7 @@ If you have any problems, suggestions or improvements, please submit the issue o
 - <a name="GAWWN"></a> **[GAWWN]** Learning What and Where to Draw (**NIPS2016**) [[paper](https://arxiv.org/abs/1610.02454)] [[code](https://github.com/reedscot/nips2016)]
 
 ## Tools
+- [Raphael AI](https://raphael.app) - Free unlimited AI image generator (text-to-image, no signup).
 
 - FID([[paper](https://arxiv.org/abs/1706.08500)] [[code](https://github.com/bioinf-jku/TTUR)] )
 - Inception-Score([[paper](https://arxiv.org/abs/1606.03498)] [[code](https://github.com/hanzhanggit/StackGAN-inception-model)])
